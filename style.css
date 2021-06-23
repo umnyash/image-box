@@ -17,3 +17,7 @@
 	margin: 0 auto;
 	object-fit: contain;
 }
+
+p {
+	white-space: pre-line;
+}
